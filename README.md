@@ -1,2 +1,14 @@
 # all-hupu-lab
-HTML page archive and documentation
+
+独立页面发布说明
+
+这里保存静态 HTML 文件，便于后续查找、访问和核对。
+
+## 存放说明
+
+- 页面内容写入独立 HTML 文件
+- 仓库说明保持在 README 中
+
+## 更新记录
+
+仓库会根据发布流程持续更新，内容以实际提交为准。
